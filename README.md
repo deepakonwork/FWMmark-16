@@ -52,11 +52,7 @@
        <li> Run the script http://localhost/folderName </li> </ol>
 
 <h2>view project :</h2>
-
 <a href="https://github.com/deepakonwork/FWMmark-16/blob/deepakonwork-patch-1/home.html" > view demo</a>
-
-
-
 
 
 
