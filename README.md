@@ -1,6 +1,6 @@
-# Food waste management system
+# FOOD WASTE MANAGEMENT SYSTEM MARK-16........
  <img src="img/coverimage.jpeg"> 
-<p>  The basic concept of this project  Food Waste Management is to collect theexcess/leftover food from donors such as hotels, restaurants, marriage halls, etc and distribute to  the  needy people .</p>
+<p>  The basic concept of this project  Food Waste Management is to collect the excess/leftover food from donors such as hotels,restaurants, marriage halls, etc and distribute to the needy people.</p>
 <h2>Tools and Technologies</h2> 
 <ul>
  <li>Frontend : HTML, CSS,  JavaScript</li>
@@ -53,6 +53,7 @@
 
 <h2>view project :</h2>
 <a href="https://github.com/deepakonwork/FWMmark-16/blob/deepakonwork-patch-1/home.html" > view demo</a>
+
 
 
 
